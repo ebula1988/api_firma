@@ -21,7 +21,7 @@ app.use(cors())
 
 //Routes
 
-app.use("/api/firma",firmaRoutes);
+app.use("/",firmaRoutes);
 
 
 
